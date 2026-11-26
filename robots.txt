@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vevelabubu-cloud.github.io/tape4d-pages/sitemap.xml
